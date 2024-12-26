@@ -1,2 +1,2 @@
 # weather
-create weather app
+create weather app.
